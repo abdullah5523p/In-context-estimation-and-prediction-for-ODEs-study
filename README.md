@@ -2,7 +2,7 @@
 
 Reproducible experiments for **parameter estimation** and **broadcast-query trajectory prediction**, accompanying the paper *In-Context Estimation and Prediction for Parametric ODEs* (A. Ahmed and Y. Yang).
 
-Training can generate new artifacts, while the local plotting notebooks use the evaluation downloads. Trained model weights and evaluation caches, which are needed to redraw the figures without retraining, are archived on Zenodo; see [ZENODO.md](ZENODO.md). The HPC instructions document the original UMD setup; adjust account-specific paths for another machine.
+Training can generate new artifacts, while the local plotting notebooks use the evaluation downloads. Trained model weights and evaluation caches, which are needed to redraw the figures without retraining, are archived on Zenodo ([doi:10.5281/zenodo.24263698](https://doi.org/10.5281/zenodo.24263698)); see [ZENODO.md](ZENODO.md). The HPC instructions document the original UMD setup; adjust account-specific paths for another machine.
 
 ## Repository layout
 

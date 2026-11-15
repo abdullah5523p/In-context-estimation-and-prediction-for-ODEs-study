@@ -3,7 +3,7 @@
 Trained model checkpoints and evaluation caches are too large for GitHub. They
 are archived on Zenodo together with a snapshot of this repository:
 
-**DOI:** `10.5281/zenodo.XXXXXXX` <!-- TODO: replace with the DOI after publishing the Zenodo record -->
+**DOI:** [10.5281/zenodo.24263698](https://doi.org/10.5281/zenodo.24263698)
 
 The record contains 9 archives (1.2 GB) and `SHA256SUMS.txt`, covering every
 experiment reported in the paper and its supplement. Use the archives in place:
