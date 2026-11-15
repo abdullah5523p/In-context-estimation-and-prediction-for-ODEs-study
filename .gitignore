@@ -1,0 +1,38 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+.DS_Store
+.ipynb_checkpoints/
+results/
+evaluation_cache_downloads/
+data/
+logs/
+runs/
+figures/
+.pytest_cache/
+.ruff_cache/
+dist/
+build/
+
+# --- Kept locally, not published on GitHub ---
+# Old drafts and unrelated files
+archive/
+# Paper sources (SIAM submission and arXiv versions)
+simods_submission/
+arxiv submission/
+# Large artifacts: published on Zenodo instead (see ZENODO.md)
+model_weights/
+statistical_comparison_cache/
+evaluation_cache_downloads/
+zenodo_upload/
+# LaTeX build artifacts
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.synctex.gz
+*.thm
